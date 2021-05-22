@@ -1,0 +1,6 @@
+train: D:/AI/Dataset/Wider Face/train.txt
+val: D:/AI/Dataset/Wider Face/val.txt
+
+nc: 1
+
+names: ['Face']
